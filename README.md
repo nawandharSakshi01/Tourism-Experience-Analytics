@@ -136,6 +136,18 @@ The application provides:
 **Streamlit App:**  
 [Open Tourism Experience Analytics App](http://10.175.104.248:8501/)
 
+Author
+
+Sakshi Nawandhar
+
+B.Tech Computer Science Engineering
+Jhulelal Institute of Technology, Nagpur
+
+✅ Conclusion
+
+This project provides an end-to-end tourism analytics solution using Data Science, Machine Learning, SQL and Streamlit.
+
+It helps analyze tourism trends, predict visitor behavior and ratings, and recommend suitable attractions.
 > Note: This is a local network address and may not be accessible outside the network where the application is running.
 
 ---
