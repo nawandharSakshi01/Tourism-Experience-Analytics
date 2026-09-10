@@ -1,0 +1,16 @@
+# Machine Learning model files
+*.pkl
+*.keras
+
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+venv/
+.env
+
+*.pkl
+*.keras
+
+.DS_Store
+Thumbs.db
