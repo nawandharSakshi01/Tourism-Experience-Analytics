@@ -139,25 +139,3 @@ The application provides:
 > Note: This is a local network address and may not be accessible outside the network where the application is running.
 
 ---
-
-## 📂 Project Structure
-
-```text
-Tourism_Experience_Analytics/
-│
-├── Cleaned_Data/
-├── Models/
-├── Notebooks/
-│   └── 01_Data_Inspection.ipynb
-│
-├── SQL/
-│   ├── tourism_analytics.db
-│   └── tourism_queries.sql
-│
-├── Streamlit/
-│   └── app.py
-│
-├── Tourism Dataset/
-│
-├── .gitignore
-└── README.md
