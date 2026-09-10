@@ -1,3 +1,7 @@
+# Machine Learning model files
+*.pkl
+*.keras
+
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
@@ -5,6 +9,7 @@ __pycache__/
 venv/
 .env
 
+*.pkl
 *.keras
 
 .DS_Store
